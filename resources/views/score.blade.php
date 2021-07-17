@@ -26,7 +26,7 @@
                       Resiko Anda terkena Covid-19 RENDAH
                       @endif
                     @endforeach
-                    <div class="card-header" align="center">Terimakasih telah menggunaka aplikasi ini</div>
+                    <div class="card-header" align="center">Terimakasih telah menggunakan aplikasi ini</div>
 
                     
                    
